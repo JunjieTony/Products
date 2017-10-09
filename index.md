@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Media Converter - video to mp3
 
-You can use the [editor on GitHub](https://github.com/JunjieTony/Products/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Media Converter can convert nearly any video files and audio files. Built-in universal video player, can play any format audio and video.
+Features:
+- Audio extraction: Extracts audio from the video, Output format: MP3, M4A, OGG, WAV, FLAC, WMA, AIFF, CAF, ADX, AC3, AAC, M4R
+- Video format conversion, Output format: MP4, MOV, 3GP, 3G2, ASF, MKV, VOB, MPEG, WMV, FLV, AVI
+- Video compression: Video size cropping, clip video
+- Audio format conversion, Output format:  MP3, M4A, OGG, WAV, FLAC, WMA, AIFF, CAF, ADX, AC3, AAC, M4R
+- Universal video player, support all formats: mp4,avi,mkv,rmvb,flv,wmv,wav,3gp,mov,swf,mpeg,mpg,vob,m4v,rm,m2ts,asf,webm,asf,mpg,dat,ts,asx,mp3,f4v,ogv,divx,dv,gxf,m2p,mpeg1,mpeg2,mpeg4,mts,mxf,ogm,qt,wm
+- Open zip, rar, 7z and other compressed files
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JunjieTony/Products/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us: junjie_ruan@163.com
